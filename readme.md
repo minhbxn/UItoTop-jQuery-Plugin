@@ -4,6 +4,8 @@ http://www.mattvarone.com/web-design/uitotop-jquery-plugin/
 
 Ver 1.2  
 
+@@MINHBXN: fork and create release for using jsDelivr@@
+
 ## License 
 
 Copyright (C) 2010  Matt Varone
